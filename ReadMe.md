@@ -7,7 +7,7 @@ Welcome to my Java learning journey! This repository contains daily progress upd
 I will follow this structured plan to learn Java effectively. Each day, I will complete the topics listed below and check them off as I progress.
 
 ### Week 1: Java Foundations (Refresher & Strong Core)
-- [ ] **Day 1**: Java Basics – Data Types, Variables, Operators, Input/Output
+- [x] **Day 1**: Java Basics – Data Types, Variables, Operators, Input/Output
 - [ ] **Day 2**: Control Flow – If-Else, Switch, Loops (for, while, do-while)
 - [ ] **Day 3**: Advanced Loops – for-each, Nested Loops, Break/Continue
 - [ ] **Day 4**: Methods – Defining, Calling, Parameters, Return Types
